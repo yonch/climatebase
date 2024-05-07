@@ -2,7 +2,7 @@
 
 - Get an API key on [https://console.groq.com/playground]. Write it to a file `.env` as:
 ```
-EXPORT GROQ_API_KEY=your-api-key
+export GROQ_API_KEY=your-api-key
 ```
 
 
